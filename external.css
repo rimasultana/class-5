@@ -1,0 +1,38 @@
+.rima{
+    color: #16a085;
+    background-color: rgba(255, 0, 0, 0.607);
+    
+}
+.Rima{
+color: #16a085;
+background-color: #8e44ad;
+}
+.web{
+    display: block;
+    text-decoration:none ;
+    color: blue;
+    text-align: center;
+}
+.rupa{
+    text-align: center;
+}
+.rima h1{
+    font-size: 90px;
+    font-weight: bold;
+}
+.rima > p > i> a {
+    font-size: 20px;
+}
+.Rima h2{
+    border: 3px solid red;
+}
+.rima a{
+    display: block;
+    text-decoration: none;
+
+}
+.rima-1 > h3:nth-child(odd) {
+    color: white;
+    background-color: #0652DD;
+    text-align: center;
+}
